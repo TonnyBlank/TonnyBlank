@@ -1,11 +1,10 @@
 ## Hi there 👋
-
 <h1 align="center">👋 Hey there, I'm Anthony! 🚀</h1>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Anthony&label=Profile%20Views&color=blue&style=flat" alt="profile views">  
-  <img src="https://img.shields.io/github/followers/Anthony?style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/Anthony?style=social" alt="stars">
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="profile views">  
+  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="followers">
+  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="stars">
 </p>
 
 ---
@@ -39,17 +38,12 @@
 
 ---
 
-## 📌 Current Projects  
-🚀 **M-Pesa Expense Tracker** – A budgeting and finance tracker built with Java.  
-🏥 **AI-Driven Telemedicine App** – Online doctor consultation platform.  
-🎓 **KUCCPS Eligibility System** – A web tool to check university course eligibility in Kenya.  
 
----
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anthony&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anthony&layout=compact&theme=radical" width="42%">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="42%">
 </p>
 
 ---
@@ -59,7 +53,7 @@
   <a href="https://linkedin.com/in/your-profile">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
   </a>
-  <a href="https://github.com/Anthony">
+  <a href="https://github.com/your-username">
     <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
   </a>
   <a href="https://twitter.com/your-handle">
@@ -72,5 +66,6 @@
 <h3 align="center">🚀 Let’s Build Something Amazing Together! 💻</h3>
 
 ---
+
 
 
