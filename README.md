@@ -4,7 +4,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="profile views">  
   <img src="https://img.shields.io/github/followers/your-username?style=social" alt="followers">
-  <img src="https://img.shields.io/github/stars/your-username?style=social" alt="stars">
 </p>
 
 ---
@@ -14,7 +13,7 @@
 🔍 Passionate about **data science, cybersecurity, and web development**.  
 📊 Learning **data analytics (Excel, Pandas, SQL, Python)** and **machine learning**.  
 🔐 Exploring **ethical hacking** and **digital security**.  
-💻 Currently building an **M-Pesa Expense Tracker** and a **KUCCPS Eligibility System**.  
+ 
 
 ---
 
@@ -37,35 +36,20 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
+ 
 
-
+---
 
 ## 📈 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="50%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="42%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="50%">
 </p>
 
 ---
 
-## 📫 Connect With Me  
-<p align="center">
-  <a href="https://linkedin.com/in/your-profile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin">
-  </a>
-  <a href="https://github.com/your-username">
-    <img src="https://img.shields.io/badge/GitHub-Follow-black?style=for-the-badge&logo=github">
-  </a>
-  <a href="https://twitter.com/your-handle">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter">
-  </a>
-</p>
-
----
-
-<h3 align="center">🚀 Let’s Build Something Amazing Together! 💻</h3>
-
----
-
-
-
+## ⭐ Repo Stars  
+**Here’s how many stars my repositories have received:**  
+```md
+![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
