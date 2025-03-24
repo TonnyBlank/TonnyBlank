@@ -1,9 +1,11 @@
 ## Hi there 👋
+
 <h1 align="center">👋 Hey there, I'm Anthony! 🚀</h1>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TonnyBlank&label=Profile%20Views&color=blue&style=flat&custom=9999" alt="profile views">  
-  <img src="https://img.shields.io/github/followers/TonnyBlank?style=social" alt="followers">
+  <img src="https://img.shields.io/badge/Profile%20Views-30K%2B-blue?style=for-the-badge&logo=eye" alt="Profile Views">  
+  <img src="https://img.shields.io/github/followers/TonnyBlank?style=social" alt="Followers">  
+  <img src="https://img.shields.io/github/stars/TonnyBlank?style=social" alt="GitHub Stars">  
 </p>
 
 ---
@@ -11,7 +13,6 @@
 ## 🚀 About Me  
 🎓 **Currently studying Computer Science at Masinde Muliro University of Science and Technology (MMUST).**  
 
----
 
 ## 🛠️ Tech Stack & Tools  
 ### 🚀 Programming Languages  
@@ -32,7 +33,7 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
-
+ 
 
 ---
 
@@ -42,12 +43,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyBlank&layout=compact&theme=radical" width="42%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonnyBlank&theme=radical" width="50%">
 </p>
-
----
-
-## ⭐ Repo Stars  
-**Total stars across all my repositories:**  
-![GitHub Repo stars](https://img.shields.io/github/stars/TonnyBlank?style=social)  
 
 ---
 
