@@ -1,19 +1,17 @@
 ## Hi there 👋
+
 <h1 align="center">👋 Hey there, I'm Anthony! 🚀</h1>  
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=blue&style=flat" alt="profile views">  
-  <img src="https://img.shields.io/github/followers/your-username?style=social" alt="followers">
+  <img src="https://komarev.com/ghpvc/?username=TonnyBlank&label=Profile%20Views&color=blue&style=flat" alt="profile views">  
+  <img src="https://img.shields.io/github/followers/TonnyBlank?style=social" alt="followers">
 </p>
 
 ---
 
 ## 🚀 About Me  
-💡 **Aspiring Data Analyst | Future Data Scientist | Cybersecurity Enthusiast | Software Developer**  
-🔍 Passionate about **data science, cybersecurity, and web development**.  
-📊 Learning **data analytics (Excel, Pandas, SQL, Python)** and **machine learning**.  
-🔐 Exploring **ethical hacking** and **digital security**.  
- 
+🎓 **Currently studying Computer Science at Masinde Muliro University of Science and Technology (MMUST).**  
+
 
 ---
 
@@ -36,15 +34,16 @@
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)  
 
 ---
- 
+
+
 
 ---
 
 ## 📈 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical" width="42%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=TonnyBlank&show_icons=true&theme=radical" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TonnyBlank&layout=compact&theme=radical" width="42%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TonnyBlank&theme=radical" width="50%">
 </p>
 
 ---
@@ -52,4 +51,4 @@
 ## ⭐ Repo Stars  
 **Here’s how many stars my repositories have received:**  
 ```md
-![GitHub Repo stars](https://img.shields.io/github/stars/your-username/your-repo?style=social)
+![GitHub Repo stars](https://img.shields.io/github/stars/TonnyBlank/your-repo?style=social)
