@@ -11,7 +11,8 @@
 ---
 
 ## 🚀 About Me  
-🎓 **Currently studying Computer Science at Masinde Muliro University of Science and Technology (MMUST).**  
+🎓 **Currently pursuing a degree in Computer Science at Masinde Muliro University of Science and Technology(MMUST)
+.**  
 
 ---
 
