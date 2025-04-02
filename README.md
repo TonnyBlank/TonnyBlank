@@ -14,7 +14,7 @@
 🎓 **Currently pursuing a degree in Computer Science at Masinde Muliro University of Science and Technology(MMUST)
 .**  
 
----   
+---  
 
 ## 🛠️ Tech Stack & Tools  
 ### 🚀 Programming Languages  
