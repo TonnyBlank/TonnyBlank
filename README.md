@@ -3,7 +3,7 @@
   ! 🚀</h1>  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-12.8K%2B-blue?style=for-the-badge&logo=eye" alt="Profile Views">  
+  <img src="https://img.shields.io/badge/Profile%20Views-18.6K%2B-blue?style=for-the-badge&logo=eye" alt="Profile Views">  
   <img src="https://img.shields.io/github/followers/TonnyBlank?style=social" alt="Followers">  
   <img src="https://img.shields.io/github/stars/TonnyBlank?style=social" alt="GitHub Stars">  
 </p>
